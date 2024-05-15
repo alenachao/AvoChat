@@ -8,7 +8,7 @@ Project Members: Amber Gupta, Angie Baik, Larissa Tsai, Shing Gao, Xina Wang
 
 ## Set up
 1. Training Model\
-You will need to run Colab Notebook to output the necessary model. The model will need to be in the project directory at the same level as `model.py`
+You will need to run `model_train.ipynb` on the  `the-office_lines.csv` to output the necessary model. The model will need to be in the project directory at the same level as `model.py`
 
 2.  Install Requirements
 ```
